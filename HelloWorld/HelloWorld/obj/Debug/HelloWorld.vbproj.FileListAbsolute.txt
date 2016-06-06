@@ -1,0 +1,29 @@
+C:\Users\Susan\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Susan\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.HelloWorld.resources
+C:\Users\Susan\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\Users\Susan\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+C:\Users\Susan\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Susan\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Susan\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\Susan\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Susan\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\Susan\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Susan\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.HelloWorld2.resources
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frmPlay.resources
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frmLevel1.resources
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frmLearn.resources
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frmLearnBox.resources
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frmLevel3.resources
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frmLevel2.resources
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frmMain.resources
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frmCongratulations.resources
+C:\Users\Susan\Documents\Visual Studio 2008\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frmLevel4.resources

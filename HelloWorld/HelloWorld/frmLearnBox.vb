@@ -1,0 +1,146 @@
+﻿Public Class frmLearnBox
+
+    Dim loadData As Integer
+
+
+    Private Sub frmLearnBox_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+
+        loadData = frmLearn.shareMon
+
+        If loadData = 1 Then
+            lblCountry.Text = country.austr
+            lblCapital.Text = capital.austr
+            lblHead.Text = head.austr
+            lblMonument.Text = mon.austr
+            picMonument.Image = My.Resources.Australia___Sydney_Opera_House
+        ElseIf loadData = 2 Then
+            lblCountry.Text = country.brazil
+            lblCapital.Text = capital.brazil
+            lblHead.Text = head.brazil
+            lblMonument.Text = mon.brazil
+            picMonument.Image = My.Resources.Brazil___Christ_the_Redeemer
+        ElseIf loadData = 3 Then
+            lblCountry.Text = country.canada
+            lblCapital.Text = capital.canada
+            lblHead.Text = head.canada
+            lblMonument.Text = mon.canada
+            picMonument.Image = My.Resources.Canada__CN_Tower
+        ElseIf loadData = 4 Then
+            lblCountry.Text = country.china
+            lblCapital.Text = capital.china
+            lblHead.Text = head.china
+            lblMonument.Text = mon.china
+            picMonument.Image = My.Resources.China___Great_Wall_of_China
+        ElseIf loadData = 5 Then
+            lblCountry.Text = country.egypt
+            lblCapital.Text = capital.egypt
+            lblHead.Text = head.egypt
+            lblMonument.Text = mon.egypt
+            picMonument.Image = My.Resources.Egypt___Sphinx
+        ElseIf loadData = 6 Then
+            lblCountry.Text = country.england
+            lblCapital.Text = capital.england
+            lblHead.Text = head.england
+            lblMonument.Text = mon.england
+            picMonument.Image = My.Resources.England___Big_Ben
+        ElseIf loadData = 7 Then
+            lblCountry.Text = country.ethiopia
+            lblCapital.Text = capital.ethiopia
+            lblHead.Text = head.ethiopia
+            lblMonument.Text = mon.ethiopia
+            picMonument.Image = My.Resources.Ethiopia___Tiglachin_Monument
+        ElseIf loadData = 8 Then
+            lblCountry.Text = country.france
+            lblCapital.Text = capital.france
+            lblHead.Text = head.france
+            lblMonument.Text = mon.france
+            picMonument.Image = My.Resources.France___Eiffel_Tower
+        ElseIf loadData = 9 Then
+            lblCountry.Text = country.germany
+            lblCapital.Text = capital.germany
+            lblHead.Text = head.germany
+            lblMonument.Text = mon.germany
+            picMonument.Image = My.Resources.Germany___Brandenburg_Gate
+        ElseIf loadData = 10 Then
+            lblCountry.Text = country.ghana
+            lblCapital.Text = capital.ghana
+            lblHead.Text = head.ghana
+            lblMonument.Text = mon.ghana
+            picMonument.Image = My.Resources.Ghana___independence_arch
+        ElseIf loadData = 11 Then
+            lblCountry.Text = country.india
+            lblCapital.Text = capital.india
+            lblHead.Text = head.india
+            lblMonument.Text = mon.india
+            picMonument.Image = My.Resources.India___Taj_Mahal
+        ElseIf loadData = 12 Then
+            lblCountry.Text = country.italy
+            lblCapital.Text = capital.italy
+            lblHead.Text = head.italy
+            lblMonument.Text = mon.italy
+            picMonument.Image = My.Resources.Italy___Colosseum
+        ElseIf loadData = 13 Then
+            lblCountry.Text = country.japan
+            lblCapital.Text = capital.japan
+            lblHead.Text = head.japan
+            lblMonument.Text = mon.japan
+            picMonument.Image = My.Resources.Japan___Hiroshima_Peace_Monument
+        ElseIf loadData = 14 Then
+            lblCountry.Text = country.mexico
+            lblCapital.Text = capital.mexico
+            lblHead.Text = head.mexico
+            lblMonument.Text = mon.mexico
+            picMonument.Image = My.Resources.Mexico___Independence_Angel
+        ElseIf loadData = 15 Then
+            lblCountry.Text = country.peru
+            lblCapital.Text = capital.peru
+            lblHead.Text = head.peru
+            lblMonument.Text = mon.peru
+            picMonument.Image = My.Resources.Peru___Machu_Pichu
+        ElseIf loadData = 16 Then
+            lblCountry.Text = country.phil
+            lblCapital.Text = capital.phil
+            lblHead.Text = head.phil
+            lblMonument.Text = mon.phil
+            picMonument.Image = My.Resources.Philippines___Rizal_Park
+        ElseIf loadData = 17 Then
+            lblCountry.Text = country.russia
+            lblCapital.Text = capital.russia
+            lblHead.Text = head.russia
+            lblMonument.Text = mon.russia
+            picMonument.Image = My.Resources.Russia___Kremelin
+        ElseIf loadData = 18 Then
+            lblCountry.Text = country.saudi
+            lblCapital.Text = capital.saudi
+            lblHead.Text = head.saudi
+            lblMonument.Text = mon.saudi
+            picMonument.Image = My.Resources.Saudi_Arabia__Mecca
+        ElseIf loadData = 19 Then
+            lblCountry.Text = country.sAfrica
+            lblCapital.Text = capital.sAfrica
+            lblHead.Text = head.sAfrica
+            lblMonument.Text = mon.sAfrica
+            picMonument.Image = My.Resources.South_Africa___Cradle_of_Humankind
+        ElseIf loadData = 20 Then
+            lblCountry.Text = country.sKorea
+            lblCapital.Text = capital.sKorea
+            lblHead.Text = head.sKorea
+            lblMonument.Text = mon.sKorea
+            picMonument.Image = My.Resources.South_Korea___Dongdaemun_Gate
+        ElseIf loadData = 21 Then
+            lblCountry.Text = country.turk
+            lblCapital.Text = capital.turk
+            lblHead.Text = head.turk
+            lblMonument.Text = mon.turk
+            picMonument.Image = My.Resources.Turkey___Blue_Mosque
+        ElseIf loadData = 22 Then
+            lblCountry.Text = country.usa
+            lblCapital.Text = capital.usa
+            lblHead.Text = head.usa
+            lblMonument.Text = mon.usa
+            picMonument.Image = My.Resources.USA___White_House
+        End If
+
+    End Sub
+
+End Class
